@@ -1,0 +1,28 @@
+[
+  {
+    "loadedUrl": "https://www.example.com/",
+    "requestedAt": "2019-04-02T21:27:33.674Z",
+    "label": "START",
+    "pageFunctionResult": [
+      {
+        "product": "iPhone X",
+        "price": 699
+      },
+      {
+        "product": "Samsung Galaxy",
+        "price": 499
+      }
+    ],
+    "responseStatus": 200,
+    "proxy": "http://proxy1.example.com:8000",
+    "cookies": [
+      {
+        "name": "SESSION",
+        "value": "abc123",
+        "domain": ".example.com"
+      }
+    ],
+    "depth": 1,
+    "errorInfo": null
+  }
+]
