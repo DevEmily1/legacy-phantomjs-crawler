@@ -1,0 +1,2 @@
+# Optional Python dependencies for auxiliary tooling or post-processing.
+requests>=2.0.0
