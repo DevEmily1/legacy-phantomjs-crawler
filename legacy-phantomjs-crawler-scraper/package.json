@@ -1,0 +1,26 @@
+{
+  "name": "legacy-phantomjs-crawler-scraper",
+  "version": "1.0.0",
+  "description": "Legacy-style crawler built around a headless browser for structured extraction from dynamic websites.",
+  "main": "src/crawler.js",
+  "scripts": {
+    "start": "node src/crawler.js",
+    "example:page": "node examples/sample_page_function.js",
+    "example:intercept": "node examples/intercept_request_example.js"
+  },
+  "keywords": [
+    "crawler",
+    "scraper",
+    "headless",
+    "automation",
+    "phantomjs",
+    "legacy"
+  ],
+  "author": "Bitbash",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "minimist": "^1.2.8",
+    "puppeteer": "^23.6.0"
+  }
+}
