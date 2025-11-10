@@ -1,0 +1,22 @@
+{
+  "startUrls": [],
+  "maxDepth": 1,
+  "maxLinksPerPage": 5,
+  "delayMs": 500,
+  "userAgent": "LegacyPhantomCrawler/1.0 (+https://bitbash.dev)",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "outputFile": "sample_output.json",
+  "proxyConfiguration": {
+    "proxyUrls": []
+  },
+  "cookies": [],
+  "blockedResourceTypes": [
+    "image",
+    "media",
+    "font"
+  ],
+  "blockedDomains": []
+}
